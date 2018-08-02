@@ -1,0 +1,6 @@
+package: github.com/keshav21/ML
+import:
+- package: code.cloudfoundry.org/lager
+testImport:
+- package: github.com/onsi/ginkgo
+- package: github.com/onsi/gomega
