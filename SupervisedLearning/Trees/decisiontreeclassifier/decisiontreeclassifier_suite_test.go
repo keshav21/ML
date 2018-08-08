@@ -1,4 +1,4 @@
-package tree_test
+package decisiontreeclassifier_test
 
 import (
 	"testing"
